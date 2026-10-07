@@ -1,3 +1,6 @@
+## Autor:
+### Nicole Robles
+
 # 🧪 Calidad de Software
 
 Repositorio de la materia **Calidad de Software**: conceptos básicos, buenas prácticas y ejemplos prácticos de **pruebas unitarias** y **pruebas End-to-End (E2E)**.
